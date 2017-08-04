@@ -1,0 +1,51 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  font-family:stencil;
+  background-color:#000;
+  color:#000;
+
+  
+}
+
+h1 {
+	color:#FFFFFF;
+
+}
+
+p {
+	color:#FFFFFF;
+
+}
+
+h2 {
+	color:#FFFFFF;
+
+}
+
+h3 {
+	color:#FFFFFF;
+
+}
+
+h4 {
+	color:#FFFFFF;
+
+}
+
+nav {
+	color:#000;
+
+}
+
+a {
+	color:#9a0a0a;
+
+{
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+			background-color:#000;
+
+}
+
